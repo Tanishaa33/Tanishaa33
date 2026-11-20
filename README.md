@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-#####👋 I'm an undergraduate passionate about Artificial Intelligence, Machine Learning, and building innovative technology-driven solutions.
+👋 I'm an undergraduate passionate about Artificial Intelligence, Machine Learning, and building innovative technology-driven solutions.
 
 🔭 I'm currently working on AI-Powered Digital Twins Networks, exploring deep learning, network KPI prediction, and intelligent network monitoring.
 
