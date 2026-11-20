@@ -1,5 +1,11 @@
 # 💫 About Me:
-### 👋 About Me<br><br>- 🎓 I'm an **undergraduate** passionate about **Artificial Intelligence, Machine Learning, and building innovative technology-driven solutions**.<br>- 🔭 I'm currently working on **AI-Powered Digital Twins Networks**, exploring deep learning, network KPI prediction, and intelligent network monitoring.<br>- 🌱 I'm currently learning **Deep Learning, NLP, Generative AI, Transfer Learning, and AI-driven intelligent systems**.<br>- 💻 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, NLP, and AI-based projects**.<br>- 🤝 I'm looking to collaborate on **AI/ML projects, Computer Vision applications, and open-source projects**.<br>- ⚡ Fun fact: **I love turning ideas into practical AI solutions and continuously learning by experimenting, building, and exploring new technologies.**
+
+👋 I'm an undergraduate passionate about Artificial Intelligence, Machine Learning, and building innovative technology-driven solutions.
+🔭 I'm currently working on AI-Powered Digital Twins Networks, exploring deep learning, network KPI prediction, and intelligent network monitoring.
+🌱 I'm currently learning Deep Learning, NLP, Generative AI, Transfer Learning, and AI-driven intelligent systems.
+💻 Ask me about Python, Machine Learning, Deep Learning, Computer Vision, NLP, and AI-based projects.
+🤝 I'm looking to collaborate on AI/ML projects, Computer Vision applications, and open-source projects.
+⚡ Fun fact: I love turning ideas into practical AI solutions and continuously learning by experimenting, building, and exploring new technologies.
 
 
 ## 🌐 Socials:
